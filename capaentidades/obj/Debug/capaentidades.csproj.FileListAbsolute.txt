@@ -1,0 +1,6 @@
+C:\Users\Michel\source\repos\arquitectura\capaentidades\bin\Debug\capaentidades.dll
+C:\Users\Michel\source\repos\arquitectura\capaentidades\bin\Debug\capaentidades.pdb
+C:\Users\Michel\source\repos\arquitectura\capaentidades\obj\Debug\capaentidades.csprojAssemblyReference.cache
+C:\Users\Michel\source\repos\arquitectura\capaentidades\obj\Debug\capaentidades.csproj.CoreCompileInputs.cache
+C:\Users\Michel\source\repos\arquitectura\capaentidades\obj\Debug\capaentidades.dll
+C:\Users\Michel\source\repos\arquitectura\capaentidades\obj\Debug\capaentidades.pdb

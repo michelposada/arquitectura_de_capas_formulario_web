@@ -1,0 +1,11 @@
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\Michel\source\repos\arquitectura\capanegocio\obj\Debug\capanegocio.csprojAssemblyReference.cache
+C:\Users\Michel\source\repos\arquitectura\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\Michel\source\repos\arquitectura\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\Michel\source\repos\arquitectura\capanegocio\obj\Debug\capanegocio.pdb
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capadatos.dll
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capaentidades.dll
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\Michel\source\repos\arquitectura\capanegocio\bin\Debug\capaentidades.pdb
+C:\Users\Michel\source\repos\arquitectura\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
